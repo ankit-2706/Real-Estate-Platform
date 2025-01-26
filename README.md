@@ -1,7 +1,8 @@
-# **Real Estate Platform using MERN stack**
+# **Material Estate**
+Material-Estate is a scalable Real Estate platform that allows users to search, purchase, and rent properties with advanced filtering and real-time updates. Designed to provide a seamless experience for property seekers, it supports concurrent users and offers an intuitive, user-friendly interface.
 
 ## **Project Description**
-Developed a scalable Real Estate platform with advanced filtering and real-time updates, ensuring smooth property search, purchase, and rental with a responsive, user-friendly interface powered by SASS.
+Material-Estate enables users to explore properties based on their specific criteria, offering robust search, purchase, and rental functionalities. The platform supports real-time updates and notifications, ensuring users stay informed about property availability and updates instantly. The responsive, user-friendly interface is built with accessibility in mind, providing an engaging experience across all devices.
 
 ## **Register**
 ![register](https://github.com/user-attachments/assets/b3b159e3-2814-48d6-ad60-0a6fcfd676fe)
