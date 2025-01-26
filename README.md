@@ -1,6 +1,6 @@
 ![Models ](https://github.com/user-attachments/assets/1a67575c-7331-4a63-8dfa-7bc48af2d419)
 ![App architecture](https://github.com/user-attachments/assets/095a28a0-61fe-4b21-987d-2ace61657bee)
-![Home page](https://github.com/user-attachments/assets/4e731e1e-17f9-459b-bb40-68fe01353d73)
+![1](https://github.com/user-attachments/assets/c90100d4-64db-4726-8137-9f8132e75fb7)
 ![all filter result ](https://github.com/user-attachments/assets/4b78a2aa-6cc7-49db-b4a1-915e85daa4ce)
 ![register](https://github.com/user-attachments/assets/b3b159e3-2814-48d6-ad60-0a6fcfd676fe)
 ![login](https://github.com/user-attachments/assets/203cb76c-6044-4fc8-867c-a24272b50d4a)
