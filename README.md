@@ -1,8 +1,46 @@
-# **Material Estate**
+# Material-Estate 
+
 Material-Estate is a scalable Real Estate platform that allows users to search, purchase, and rent properties with advanced filtering and real-time updates. Designed to provide a seamless experience for property seekers, it supports concurrent users and offers an intuitive, user-friendly interface.
 
-## **Project Description**
+## Project Description
+
 Material-Estate enables users to explore properties based on their specific criteria, offering robust search, purchase, and rental functionalities. The platform supports real-time updates and notifications, ensuring users stay informed about property availability and updates instantly. The responsive, user-friendly interface is built with accessibility in mind, providing an engaging experience across all devices.
+
+---
+
+## Key Features
+
+- **Advanced Property Search & Filtering**: Helps users find properties that match their exact needs, providing detailed filters for an optimized search experience.
+  
+- **Real-Time Notifications**: Powered by Socket.IO, users receive instant updates on property availability, ensuring they never miss out on new listings or changes.
+
+- **Interactive Map**: Integrated Leaflet maps allow for precise property location pinpointing, enhancing the user's search with visual, interactive mapping.
+
+- **Responsive Design**: Built using SASS for scalable, mobile-first styling, ensuring a seamless experience across devices from desktop to mobile.
+
+- **Efficient Media Management**: Integrated with Cloudinary, ensuring optimized media storage and fast image and video retrieval for property listings.
+
+---
+
+## Tech Stack
+
+### Frontend:
+- **React**: For building dynamic, responsive, and fast user interfaces.
+- **SASS**: For maintaining scalable and modular stylesheets, ensuring a seamless design across various screen sizes.
+- **Leaflet**: Used for displaying interactive maps with real-time property location geospatial data.
+
+### Backend:
+- **Node.js** & **Express.js**: For handling server-side logic, APIs, and managing asynchronous events.
+- **Socket.IO**: Enables real-time communication for instant property updates and notifications.
+
+### Database:
+- **MongoDB**: A NoSQL database used to store property-related data, providing scalability and flexibility.
+- **Prisma**: The ORM used to interface with MongoDB, improving query performance and speeding up data retrieval by 30%.
+
+---
+
+### SnapShots
+
 
 ## **Register**
 ![register](https://github.com/user-attachments/assets/b3b159e3-2814-48d6-ad60-0a6fcfd676fe)
