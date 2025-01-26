@@ -6,8 +6,9 @@
 ![1](https://github.com/user-attachments/assets/c90100d4-64db-4726-8137-9f8132e75fb7)
 ## **User Information**
 ![6](https://github.com/user-attachments/assets/7d25ef6d-ce6d-4e42-a538-4589c24e3981)
-## **Post Description**
+## **Property Description**
 ![4](https://github.com/user-attachments/assets/5198684c-4d80-44cd-acf9-4b89a3b20c81)
+## **Property location mapping**
 ![all filter result ](https://github.com/user-attachments/assets/4b78a2aa-6cc7-49db-b4a1-915e85daa4ce)
 ![My list](https://github.com/user-attachments/assets/f78bbae0-1ea6-48ed-8745-f2cc973df98f)
 ![Saved list](https://github.com/user-attachments/assets/de72be72-4188-4be7-9822-cea7575dcc52)
