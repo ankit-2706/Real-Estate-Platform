@@ -1,5 +1,7 @@
-# *Real Estate Platform using MERN stack*
+# **Real Estate Platform using MERN stack**
 
+## **Project Description**
+Developed a scalable Real Estate platform with advanced filtering and real-time updates, ensuring smooth property search, purchase, and rental with a responsive, user-friendly interface powered by SASS.
 
 ## **Register**
 ![register](https://github.com/user-attachments/assets/b3b159e3-2814-48d6-ad60-0a6fcfd676fe)
