@@ -1,3 +1,6 @@
+# **Real Estate Platform using MERN stack**
+
+
 ## **Register**
 ![register](https://github.com/user-attachments/assets/b3b159e3-2814-48d6-ad60-0a6fcfd676fe)
 ## **Login**
