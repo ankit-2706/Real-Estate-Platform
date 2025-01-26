@@ -1,4 +1,4 @@
-# **Real Estate Platform using MERN stack**
+# *Real Estate Platform using MERN stack*
 
 
 ## **Register**
